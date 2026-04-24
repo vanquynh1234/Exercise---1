@@ -1,0 +1,7 @@
+﻿Build started at 1:55 CH...
+1>------ Build started: Project: Exercises-1, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\10.0.300-preview.0.26177.108\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.RuntimeIdentifierInference.targets(383,5): message NETSDK1057: You are using a preview version of .NET. See: https://aka.ms/dotnet-support-policy
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  Exercises-1 -> C:\Users\PC\source\repos\Exercises-1\Exercises-1\bin\Debug\net10.0\Exercises-1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:55 CH and took 00,713 seconds ==========
